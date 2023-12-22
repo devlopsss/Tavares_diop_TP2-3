@@ -6,7 +6,7 @@
 
 int main() {
     // Adresse IP et numéro de port du serveur
-    const char *serveur_ip = "127.0.0.1"; // Remplacez par l'adresse IP du serveur
+    const char *serveur_ip = "10.10.17.42"; // Remplacez par l'adresse IP du serveur
     const int serveur_port = 12345; // Remplacez par le numéro de port du serveur
 
     // Création du socket
