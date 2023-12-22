@@ -15,4 +15,6 @@ Le code C fait essentiellement trois choses :
  il prend le nom d'hôte du serveur TFTP en ligne de commande, résout cette adresse, puis crée et connecte un socket (une sorte de canal de communication) avec le serveur.
  La fonction reserveSocket gère ces étapes pour obtenir un socket prêt à être utilisé dans la communication avec le serveur TFTP.
  Ensuite, ce socket est utilisé dans le reste du programme, et à la fin, le programme se termine en fermant ce canal de communication.
+ ![test11](https://github.com/devlopsss/Tavares_diop_TP2-3/assets/152478866/40e68cbc-85c7-4b20-bf31-ea27bc44b49b)
+
 
