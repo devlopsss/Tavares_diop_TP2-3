@@ -7,7 +7,8 @@ Cela a été fait grace à la fonction write, entre autres.
 2.Appel à getaddrinfo pour obtenir l’adresse du serveur ;
   Pour l'appel de la fontion getaddrinfo nous avons eu recours à la structure addrinfo . 
 Après test  de getaddrinfo nous lisons :
-   ///mettre capture
+   <img width="365" alt="image" src="https://github.com/devlopsss/Tavares_diop_TP2-3/assets/152478866/563db5f1-b548-4fcd-9460-e464ee535de2">
+
 
 3.Réservation d’un socket de connexion vers le serveur ;
 Le code C fait essentiellement trois choses :
